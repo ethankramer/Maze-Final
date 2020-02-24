@@ -9,7 +9,9 @@ path, eventually finding the one correct path that goes from the entrance ('Star
 
 After the initial mazes (10x10, 20x20, and 30x30) are generated and displayed, the console will prompt the user for another
 input. This input will offer the user to generate another square maze using the user's input.
-    - For example, if the user inputs 57, the program will generate a 57x57 maze and display it with the solution.
+   
+   - For example, if the user inputs 57, the program will generate a 57x57 maze and display it with the solution.
+   
 After the user's input and maze is shown, the program will finish.
 
 The summary file provided gives an example of what the mazes of each size (10x10, 20x20, and 30x30) will look like once displayed.
